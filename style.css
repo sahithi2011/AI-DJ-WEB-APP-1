@@ -1,0 +1,25 @@
+body{
+    background-size:cover ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#intro{
+    font-size: 18px;
+    background-color: rgb(46, 133, 255);
+    height: 110px;
+    color: #ffffff;
+}
+
+
+#intro p{
+    color: rgb(155, 236, 248);
+    font-size: 25px;
+   
+}
+
+
+
+#song{
+    font-size: 23px;
+    margin: 15px;
+}
